@@ -16,3 +16,4 @@ JL: Justin Leung
 ## Changes
 - Updated links on the about and gallery pages.
 - Added a new template for each of the website views.
+- Changed page title.
